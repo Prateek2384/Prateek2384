@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Swami</h1>
-<h3 align="center">A passionate Machine Learning and Cyber Security enthusiast from India</h3>
+<h3 align="center">A passionate Machine Learning and LLM enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek2384&label=Profile%20views&color=0e75b6&style=flat" alt="prateek2384" /> </p>
 
